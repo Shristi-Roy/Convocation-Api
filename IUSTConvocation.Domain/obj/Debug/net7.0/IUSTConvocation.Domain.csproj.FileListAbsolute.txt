@@ -1,0 +1,12 @@
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Domain\bin\Debug\net7.0\IUSTConvocation.Domain.deps.json
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Domain\bin\Debug\net7.0\IUSTConvocation.Domain.dll
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Domain\bin\Debug\net7.0\IUSTConvocation.Domain.pdb
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Domain\obj\Debug\net7.0\IUSTConvocation.Domain.csproj.AssemblyReference.cache
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Domain\obj\Debug\net7.0\IUSTConvocation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Domain\obj\Debug\net7.0\IUSTConvocation.Domain.AssemblyInfoInputs.cache
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Domain\obj\Debug\net7.0\IUSTConvocation.Domain.AssemblyInfo.cs
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Domain\obj\Debug\net7.0\IUSTConvocation.Domain.csproj.CoreCompileInputs.cache
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Domain\obj\Debug\net7.0\IUSTConvocation.Domain.dll
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Domain\obj\Debug\net7.0\refint\IUSTConvocation.Domain.dll
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Domain\obj\Debug\net7.0\IUSTConvocation.Domain.pdb
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Domain\obj\Debug\net7.0\ref\IUSTConvocation.Domain.dll

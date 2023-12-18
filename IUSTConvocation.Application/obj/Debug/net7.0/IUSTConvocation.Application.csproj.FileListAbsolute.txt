@@ -1,0 +1,15 @@
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\bin\Debug\net7.0\IUSTConvocation.Application.deps.json
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\bin\Debug\net7.0\IUSTConvocation.Application.dll
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\bin\Debug\net7.0\IUSTConvocation.Application.pdb
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\bin\Debug\net7.0\IUSTConvocation.Domain.dll
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\bin\Debug\net7.0\IUSTConvocation.Domain.pdb
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\obj\Debug\net7.0\IUSTConvocation.Application.csproj.AssemblyReference.cache
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\obj\Debug\net7.0\IUSTConvocation.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\obj\Debug\net7.0\IUSTConvocation.Application.AssemblyInfoInputs.cache
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\obj\Debug\net7.0\IUSTConvocation.Application.AssemblyInfo.cs
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\obj\Debug\net7.0\IUSTConvocation.Application.csproj.CoreCompileInputs.cache
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\obj\Debug\net7.0\IUSTConvocation.Application.csproj.CopyComplete
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\obj\Debug\net7.0\IUSTConvocation.Application.dll
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\obj\Debug\net7.0\refint\IUSTConvocation.Application.dll
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\obj\Debug\net7.0\IUSTConvocation.Application.pdb
+E:\ProjectRepository\Convocation\Convocation-Api\IUSTConvocation.Application\obj\Debug\net7.0\ref\IUSTConvocation.Application.dll

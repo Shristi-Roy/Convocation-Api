@@ -1,0 +1,244 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\010ad3b1-8fe5-491c-8af7-7004ea855350de3b53cc-4018-4d8d-8ef1-c652a785835dYellow-Polyester-Nursery-School-Graduation-Gown.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/010ad3b1-8fe5-491c-8af7-7004ea855350de3b53cc-4018-4d8d-8ef1-c652a785835dYellow-Polyester-Nursery-School-Graduation-Gown.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\010ad3b1-8fe5-491c-8af7-7004ea855350de3b53cc-4018-4d8d-8ef1-c652a785835dYellow-Polyester-Nursery-School-Graduation-Gown.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\0d9e350e-6b50-42a3-a8c7-05a0c79f6983download.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/0d9e350e-6b50-42a3-a8c7-05a0c79f6983download.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\0d9e350e-6b50-42a3-a8c7-05a0c79f6983download.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\147635bb-d21e-4edd-ac51-53fbd5653e16young-male-graduate-holding-diploma-260nw-1969241380.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/147635bb-d21e-4edd-ac51-53fbd5653e16young-male-graduate-holding-diploma-260nw-1969241380.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\147635bb-d21e-4edd-ac51-53fbd5653e16young-male-graduate-holding-diploma-260nw-1969241380.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\26d38d7d-51ba-4f9f-936e-4dda50c874dddownload.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/26d38d7d-51ba-4f9f-936e-4dda50c874dddownload.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\26d38d7d-51ba-4f9f-936e-4dda50c874dddownload.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\31d71ca8-e522-4acb-983a-312219d8d3fchappy-student-with-graduation-hat-diploma-grey_231208-12981.avif))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/31d71ca8-e522-4acb-983a-312219d8d3fchappy-student-with-graduation-hat-diploma-grey_231208-12981.avif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\31d71ca8-e522-4acb-983a-312219d8d3fchappy-student-with-graduation-hat-diploma-grey_231208-12981.avif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\583820ec-12cd-4137-96a0-f82a331d8f53images (4).jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/583820ec-12cd-4137-96a0-f82a331d8f53images (4).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\583820ec-12cd-4137-96a0-f82a331d8f53images (4).jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\60be0e71-e574-4e07-b72c-07c26df6f263images (1).jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/60be0e71-e574-4e07-b72c-07c26df6f263images (1).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\60be0e71-e574-4e07-b72c-07c26df6f263images (1).jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\60fb9e38-060f-4a45-bc6b-3fe132734414DePaulAcademicDress.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/60fb9e38-060f-4a45-bc6b-3fe132734414DePaulAcademicDress.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\60fb9e38-060f-4a45-bc6b-3fe132734414DePaulAcademicDress.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\6efe97ad-af52-4894-adfb-9d76a36ec661images (5).jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/6efe97ad-af52-4894-adfb-9d76a36ec661images (5).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\6efe97ad-af52-4894-adfb-9d76a36ec661images (5).jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\c1b7002f-0d07-4256-b8c0-90a3de2f8aebDePaulAcademicDress.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/c1b7002f-0d07-4256-b8c0-90a3de2f8aebDePaulAcademicDress.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\c1b7002f-0d07-4256-b8c0-90a3de2f8aebDePaulAcademicDress.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\d2fa919b-7605-446a-93c2-b84cd709ad4bASUQPhD_1_1200x1200.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/d2fa919b-7605-446a-93c2-b84cd709ad4bASUQPhD_1_1200x1200.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\d2fa919b-7605-446a-93c2-b84cd709ad4bASUQPhD_1_1200x1200.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\de3b53cc-4018-4d8d-8ef1-c652a785835dYellow-Polyester-Nursery-School-Graduation-Gown.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/de3b53cc-4018-4d8d-8ef1-c652a785835dYellow-Polyester-Nursery-School-Graduation-Gown.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\de3b53cc-4018-4d8d-8ef1-c652a785835dYellow-Polyester-Nursery-School-Graduation-Gown.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\edc24805-aef0-442d-8ef3-bf5d714f0561kathmandu-nepal-december-19-2019-260nw-1594377853.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/edc24805-aef0-442d-8ef3-bf5d714f0561kathmandu-nepal-december-19-2019-260nw-1594377853.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\edc24805-aef0-442d-8ef3-bf5d714f0561kathmandu-nepal-december-19-2019-260nw-1594377853.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\f4028d26-091b-44ca-9072-eb73bbb80871admin3.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/f4028d26-091b-44ca-9072-eb73bbb80871admin3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\f4028d26-091b-44ca-9072-eb73bbb80871admin3.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\TextFile.txt))">
+      <SourceType>Package</SourceType>
+      <SourceId>IUSTConvocation.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IUSTConvocation.Api</BasePath>
+      <RelativePath>Files/TextFile.txt</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\TextFile.txt))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
